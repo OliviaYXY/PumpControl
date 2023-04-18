@@ -3,7 +3,7 @@ This python program is wrote to communicate with the pump control station (DK-SP
 
 Using MODBUS-RTU as communication protocol.
 
-UI is achieved by PyQt5.
+Environment with python3.8, PyQt5, modbus_tk and serial module is required.
 
 ## **Functions**
 >1. Connect & Disconnect;
