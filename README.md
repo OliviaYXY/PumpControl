@@ -17,7 +17,7 @@ Step 1. Set correct port and baudrate, click "*Connect*" to build connection bet
 
 Step 2. Check rows according to the number of the pumps need to be used;
 
-Step 3. Tap the diameters or flow rate then click "*Set Select*" to send the change to the control station;
+Step 3. Enter the required parameters then click "*Set Select*" to send the change to the control station;
 
 Step 4. Using "*Run Select*" or "*Stop Select*" to control the status of the pumps.
 
